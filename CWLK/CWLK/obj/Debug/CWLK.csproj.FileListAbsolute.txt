@@ -1,0 +1,15 @@
+c:\users\darkshrub\documents\visual studio 2013\Projects\CWLK\CWLK\bin\Debug\CWLK.exe.config
+c:\users\darkshrub\documents\visual studio 2013\Projects\CWLK\CWLK\bin\Debug\CWLK.exe
+c:\users\darkshrub\documents\visual studio 2013\Projects\CWLK\CWLK\bin\Debug\CWLK.pdb
+c:\users\darkshrub\documents\visual studio 2013\Projects\CWLK\CWLK\bin\Debug\Hammock.dll
+c:\users\darkshrub\documents\visual studio 2013\Projects\CWLK\CWLK\bin\Debug\Newtonsoft.Json.dll
+c:\users\darkshrub\documents\visual studio 2013\Projects\CWLK\CWLK\bin\Debug\TweetSharp.dll
+c:\users\darkshrub\documents\visual studio 2013\Projects\CWLK\CWLK\bin\Debug\Hammock.pdb
+c:\users\darkshrub\documents\visual studio 2013\Projects\CWLK\CWLK\bin\Debug\Newtonsoft.Json.xml
+c:\users\darkshrub\documents\visual studio 2013\Projects\CWLK\CWLK\bin\Debug\TweetSharp.pdb
+c:\users\darkshrub\documents\visual studio 2013\Projects\CWLK\CWLK\obj\Debug\CWLK.csprojResolveAssemblyReference.cache
+c:\users\darkshrub\documents\visual studio 2013\Projects\CWLK\CWLK\obj\Debug\CWLK.Form1.resources
+c:\users\darkshrub\documents\visual studio 2013\Projects\CWLK\CWLK\obj\Debug\CWLK.Properties.Resources.resources
+c:\users\darkshrub\documents\visual studio 2013\Projects\CWLK\CWLK\obj\Debug\CWLK.csproj.GenerateResource.Cache
+c:\users\darkshrub\documents\visual studio 2013\Projects\CWLK\CWLK\obj\Debug\CWLK.exe
+c:\users\darkshrub\documents\visual studio 2013\Projects\CWLK\CWLK\obj\Debug\CWLK.pdb

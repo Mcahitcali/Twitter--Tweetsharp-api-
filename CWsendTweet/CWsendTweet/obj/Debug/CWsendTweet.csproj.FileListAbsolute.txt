@@ -1,0 +1,15 @@
+c:\users\darkshrub\documents\visual studio 2013\Projects\CWsendTweet\CWsendTweet\bin\Debug\CWsendTweet.exe.config
+c:\users\darkshrub\documents\visual studio 2013\Projects\CWsendTweet\CWsendTweet\bin\Debug\CWsendTweet.exe
+c:\users\darkshrub\documents\visual studio 2013\Projects\CWsendTweet\CWsendTweet\bin\Debug\CWsendTweet.pdb
+c:\users\darkshrub\documents\visual studio 2013\Projects\CWsendTweet\CWsendTweet\bin\Debug\Hammock.dll
+c:\users\darkshrub\documents\visual studio 2013\Projects\CWsendTweet\CWsendTweet\bin\Debug\Newtonsoft.Json.dll
+c:\users\darkshrub\documents\visual studio 2013\Projects\CWsendTweet\CWsendTweet\bin\Debug\TweetSharp.dll
+c:\users\darkshrub\documents\visual studio 2013\Projects\CWsendTweet\CWsendTweet\bin\Debug\Hammock.pdb
+c:\users\darkshrub\documents\visual studio 2013\Projects\CWsendTweet\CWsendTweet\bin\Debug\Newtonsoft.Json.xml
+c:\users\darkshrub\documents\visual studio 2013\Projects\CWsendTweet\CWsendTweet\bin\Debug\TweetSharp.pdb
+c:\users\darkshrub\documents\visual studio 2013\Projects\CWsendTweet\CWsendTweet\obj\Debug\CWsendTweet.csprojResolveAssemblyReference.cache
+c:\users\darkshrub\documents\visual studio 2013\Projects\CWsendTweet\CWsendTweet\obj\Debug\CWsendTweet.Form1.resources
+c:\users\darkshrub\documents\visual studio 2013\Projects\CWsendTweet\CWsendTweet\obj\Debug\CWsendTweet.Properties.Resources.resources
+c:\users\darkshrub\documents\visual studio 2013\Projects\CWsendTweet\CWsendTweet\obj\Debug\CWsendTweet.csproj.GenerateResource.Cache
+c:\users\darkshrub\documents\visual studio 2013\Projects\CWsendTweet\CWsendTweet\obj\Debug\CWsendTweet.exe
+c:\users\darkshrub\documents\visual studio 2013\Projects\CWsendTweet\CWsendTweet\obj\Debug\CWsendTweet.pdb

@@ -1,0 +1,15 @@
+c:\users\darkshrub\documents\visual studio 2013\Projects\CWFW\CWFW\bin\Debug\CWFW.exe.config
+c:\users\darkshrub\documents\visual studio 2013\Projects\CWFW\CWFW\bin\Debug\CWFW.exe
+c:\users\darkshrub\documents\visual studio 2013\Projects\CWFW\CWFW\bin\Debug\CWFW.pdb
+c:\users\darkshrub\documents\visual studio 2013\Projects\CWFW\CWFW\bin\Debug\Hammock.dll
+c:\users\darkshrub\documents\visual studio 2013\Projects\CWFW\CWFW\bin\Debug\Newtonsoft.Json.dll
+c:\users\darkshrub\documents\visual studio 2013\Projects\CWFW\CWFW\bin\Debug\TweetSharp.dll
+c:\users\darkshrub\documents\visual studio 2013\Projects\CWFW\CWFW\bin\Debug\Hammock.pdb
+c:\users\darkshrub\documents\visual studio 2013\Projects\CWFW\CWFW\bin\Debug\Newtonsoft.Json.xml
+c:\users\darkshrub\documents\visual studio 2013\Projects\CWFW\CWFW\bin\Debug\TweetSharp.pdb
+c:\users\darkshrub\documents\visual studio 2013\Projects\CWFW\CWFW\obj\Debug\CWFW.csprojResolveAssemblyReference.cache
+c:\users\darkshrub\documents\visual studio 2013\Projects\CWFW\CWFW\obj\Debug\CWFW.Form1.resources
+c:\users\darkshrub\documents\visual studio 2013\Projects\CWFW\CWFW\obj\Debug\CWFW.Properties.Resources.resources
+c:\users\darkshrub\documents\visual studio 2013\Projects\CWFW\CWFW\obj\Debug\CWFW.csproj.GenerateResource.Cache
+c:\users\darkshrub\documents\visual studio 2013\Projects\CWFW\CWFW\obj\Debug\CWFW.exe
+c:\users\darkshrub\documents\visual studio 2013\Projects\CWFW\CWFW\obj\Debug\CWFW.pdb

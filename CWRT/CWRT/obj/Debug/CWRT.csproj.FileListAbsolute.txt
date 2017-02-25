@@ -1,0 +1,15 @@
+c:\users\darkshrub\documents\visual studio 2013\Projects\CWRT\CWRT\bin\Debug\CWRT.exe.config
+c:\users\darkshrub\documents\visual studio 2013\Projects\CWRT\CWRT\bin\Debug\CWRT.exe
+c:\users\darkshrub\documents\visual studio 2013\Projects\CWRT\CWRT\bin\Debug\CWRT.pdb
+c:\users\darkshrub\documents\visual studio 2013\Projects\CWRT\CWRT\bin\Debug\Newtonsoft.Json.dll
+c:\users\darkshrub\documents\visual studio 2013\Projects\CWRT\CWRT\bin\Debug\TweetSharp.dll
+c:\users\darkshrub\documents\visual studio 2013\Projects\CWRT\CWRT\bin\Debug\Newtonsoft.Json.xml
+c:\users\darkshrub\documents\visual studio 2013\Projects\CWRT\CWRT\bin\Debug\TweetSharp.pdb
+c:\users\darkshrub\documents\visual studio 2013\Projects\CWRT\CWRT\obj\Debug\CWRT.csprojResolveAssemblyReference.cache
+c:\users\darkshrub\documents\visual studio 2013\Projects\CWRT\CWRT\obj\Debug\CWRT.Form1.resources
+c:\users\darkshrub\documents\visual studio 2013\Projects\CWRT\CWRT\obj\Debug\CWRT.Properties.Resources.resources
+c:\users\darkshrub\documents\visual studio 2013\Projects\CWRT\CWRT\obj\Debug\CWRT.csproj.GenerateResource.Cache
+c:\users\darkshrub\documents\visual studio 2013\Projects\CWRT\CWRT\obj\Debug\CWRT.exe
+c:\users\darkshrub\documents\visual studio 2013\Projects\CWRT\CWRT\obj\Debug\CWRT.pdb
+c:\users\darkshrub\documents\visual studio 2013\Projects\CWRT\CWRT\bin\Debug\Hammock.dll
+c:\users\darkshrub\documents\visual studio 2013\Projects\CWRT\CWRT\bin\Debug\Hammock.pdb
