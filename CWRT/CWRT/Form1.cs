@@ -20,8 +20,8 @@ namespace CWRT
 
         public static String consumerKey = "UvKoV2nIz8nW6WT9PA0DUc9Dk";
         public static String consumerSecret = "GpBTIFj7stWViRUZNnf1oAAjbmy80M421QNcsH5GOPRznW2ixW";
-        public static String accesToken = "3397054054-CT2W0fYiH2skxCRxUkp7zpaunNPtiXOs2mbJLxs";
-        public static String tokensec = "4MvgJ9ZEgiDnTcvoFpEXrKFb4zebvwbmCnTcW6kX4qCpJ";
+        public static String accesToken = "user-accesToken";
+        public static String tokensec = "user-tokensec";
         public static ArrayList tweetID = new ArrayList();
         public void listtweet(TwitterService service)
         {
