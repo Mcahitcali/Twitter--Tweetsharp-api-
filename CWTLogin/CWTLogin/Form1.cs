@@ -42,8 +42,8 @@ namespace CWTLogin
  
         public void tLogin()
         {
-            webBrowser1.Document.GetElementById("username_or_email").SetAttribute("value", "cagri8ok@gmail.com");
-            webBrowser1.Document.GetElementById("password").SetAttribute("value","hesap8denetim");
+            webBrowser1.Document.GetElementById("username_or_email").SetAttribute("value", "usernameoremail");
+            webBrowser1.Document.GetElementById("password").SetAttribute("value","password");
             webBrowser1.Document.GetElementById("allow").InvokeMember("click");
         }
         private void Form1_Load(object sender, EventArgs e)
@@ -103,10 +103,10 @@ namespace CWTLogin
 
         private void webBrowser1_DocumentCompleted(object sender, WebBrowserDocumentCompletedEventArgs e)
         {
-        //    webBrowser1.Document.GetElementById("session[username_or_email]").SetAttribute("value", "cagri8ok@gmail.com");
+        //    webBrowser1.Document.GetElementById("session[username_or_email]").SetAttribute("value", "usernameoremail");
         //    this.textBox2.Text = webBrowser1.Document.GetElementById("session[username_or_email]").GetAttribute("value");
 
-        //    webBrowser1.Document.GetElementById("session[password]").SetAttribute("value", "hesap8denetim");
+        //    webBrowser1.Document.GetElementById("session[password]").SetAttribute("value", "password");
         //    this.textBox3.Text = webBrowser1.Document.GetElementById("session[password]").GetAttribute("value");
 
         //    HtmlElementCollection htmlcol = ((WebBrowser)sender).Document.GetElementsByTagName("input");
